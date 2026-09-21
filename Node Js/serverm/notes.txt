@@ -1,0 +1,17 @@
+steps of the create the server 
+
+
+1  npm init -y  => node js application initiate 
+
+2  npm i express => install express   package 
+
+
+
+
+GET   => server se data fetch karva ho tb krten hai 
+POST = > server pr data send karna ho 
+PATCH => server pr data already hai aur us data ko update karna ho tb use krten hai 
+DELETE   => server pr data hai aur us delete karna hai
+
+
+

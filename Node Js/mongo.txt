@@ -1,0 +1,11 @@
+
+
+operations
+
+  CRUD 
+
+  C => Create   - POST
+  R => Read    - GET
+  U => Update  - PATCH
+  D => Delete  - DELETE
+
